@@ -1,3 +1,3 @@
-a = 20,b=30,c=40,d=20
+a = 20,b=30
 print("hello world",a+b)
 
